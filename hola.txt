@@ -1,3 +1,8 @@
 dentro.dev
 
+<<<<<<< HEAD
 Hola grupo
+=======
+
+Este archivo fue el primero y este es el cambio del 7 punto
+>>>>>>> 66819d3e812962e7503712951a6a9187cbf0a493
